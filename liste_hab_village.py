@@ -1,0 +1,20 @@
+village = {
+    "Paysan1": ("Paysan", 25, 50),
+    "Paysan2": ("Paysan", 25, 50),
+    "Paysan3": ("Paysan", 25, 50),
+    "Paysan4": ("Paysan", 25, 50),
+    "Paysan5": ("Paysan", 25, 50),
+    "Paysan6": ("Paysan", 25, 50),
+    "Paysan7": ("Paysan", 25, 50),
+    "Paysan8": ("Paysan", 25, 50),
+    "Paysan9": ("Paysan", 25, 50),
+    "Paysan10": ("Paysan", 25, 50),
+    "Paysan11": ("Paysan", 25, 50),
+    "Paysan12": ("Paysan", 25, 50),
+    "Paysan13": ("Paysan", 25, 50),
+    "Artisan1": (30, 70),
+    "Artisan2": (30, 70),
+    "Artisan3": (30, 70),
+    "Artisan4": (30, 70),
+    "Noble1": (50, 100)
+}
