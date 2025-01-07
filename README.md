@@ -35,4 +35,5 @@ Quelques anomalies sont à souligner :
   La redirection de la sortie standard vers un widget vient de :
   https://stackoverflow.com/questions/12351786/how-to-redirect-print-statements-to-tkinter-text-widget
 
-  
+  A noter, la gestion des fichiers aurait pu être meilleur( la majorité est dans manu_fief ) donc les séparer dans différents fichiers aurait été judicieux.
+  Je suis assez satisfait de la façon dont fonctionne le programme mais il n'est pas terminé à 100%.
